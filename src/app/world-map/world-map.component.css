@@ -1,0 +1,32 @@
+.map {
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+.stroke {
+    fill: none;
+    stroke: #000;
+    stroke-width: 3px;
+}
+.fill {
+    fill: #fff;
+}
+.graticule {
+    fill: none;
+    stroke: #777;
+    stroke-width: .5px;
+    stroke-opacity: .5;
+}
+.land {
+    fill: #D4FC00;
+}
+
+g {
+    fill: #777;
+}
+
+.boundary {
+    fill: none;
+    stroke: #fff;
+    stroke-width: .5px;
+}
